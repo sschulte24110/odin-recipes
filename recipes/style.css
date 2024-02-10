@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Courier new", "lucida console", monospace;
+}
+
+h1 {
+    color: powderblue;
+}
+
+.heading {
+    color: yellow;
+}
